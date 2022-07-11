@@ -1,22 +1,27 @@
 h1 {
-    text-align: center;
+	text-align: center;
   }
   
-  .marker{
-    width:200px;
-    height: 25px;
-    margin: 10px auto;
-  }
-  .one{
-    background-color: rgb(255, 255, 0);
-
-  }
-  .two {
-    background-color: rgb(0, 255, 0);
-  }.three {
-    background-color: rgb(0, 0, 255);
-  }
-  .container{
+  .container {
 	background-color: rgb(255, 255, 255);
 	padding: 10px 0;
-    }
+  }
+  
+  .marker {
+	width: 200px;
+	height: 25px;
+	margin: 10px auto;
+  }
+  
+  .red {
+	background-color: rgb(255, 0, 0);
+}
+  
+  .green {
+	background-color: #00ff00;
+}
+  
+  .blue {
+	background-color:hsl(240, 100%, 50%);
+}
+  
