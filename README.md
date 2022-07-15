@@ -167,4 +167,10 @@ This is one of the required projects to earn your certification.
 
 For this project, you will build your own personal portfolio page.
 
+## Authors and acknowledgment
+
 <sup>[https://www.freecodecamp.org/learn/2022/responsive-web-design/]</sup>
+
+## Honesty Policy
+
+I pledge that I did not plagiarize any of my freeCodeCamp work. I understand that freeCodeCamp’s team will audit my projects to confirm this. **_- Dennis Macharia Munyi_**
