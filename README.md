@@ -1,4 +1,4 @@
-# (New) Responsive Web Design
+[ ] # (New) Responsive Web Design
 
 [https://www.freecodecamp.org/learn/2022/responsive-web-design/]
 
@@ -10,7 +10,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-## Learn HTML by Building a Cat Photo App
+## Learn HTML by Building a Cat Photo App [x]
 
 _Completed_
 
