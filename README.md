@@ -2,9 +2,6 @@
 
 # (New) Responsive Web Design
 
-[https://www.freecodecamp.org/learn/2022/responsive-web-design/]
-
-
 - [ ] _Continuing_
 
 In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
@@ -169,3 +166,5 @@ In this course, you'll build a penguin. You'll use CSS transforms to position an
 This is one of the required projects to earn your certification.
 
 For this project, you will build your own personal portfolio page.
+
+<sup>[https://www.freecodecamp.org/learn/2022/responsive-web-design/]</sup>
