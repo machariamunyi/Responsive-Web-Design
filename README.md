@@ -10,9 +10,9 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
- ##  - [x] Learn HTML by Building a Cat Photo App
+ ## Learn HTML by Building a Cat Photo App
 
-_Completed_
+- [x] _Completed_
 
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 
@@ -20,7 +20,7 @@ In this course, you'll learn the most common HTML tags by building your own cat 
 
 ## Learn Basic CSS by Building a Cafe Menu
 
-_Completed_
+- [x] _Completed_
 
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
@@ -28,7 +28,7 @@ In this course, you'll learn CSS by designing a menu page for a cafe webpage.
 
 ## Learn CSS Colors by Building a Set of Colored Markers
 
-_Completed_
+- [x] _Completed_
 
 Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 
@@ -36,7 +36,7 @@ In this course, you'll build a set of colored markers. You'll learn different wa
 
 ## Learn HTML Forms by Building a Registration Form
 
-_32% Completed_
+- [ ] _32% Completed_
 
 You can use HTML forms to collect information from people who visit your webpage.
 
@@ -44,7 +44,7 @@ In this course, you'll learn HTML forms by building a signup page. You'll learn 
 
 ### Survey Form
 
-_Not started_
+- [ ] _Not started_
 
 This is one of the required projects to earn your certification.
 
@@ -52,7 +52,7 @@ For this project, you will build a survey form to collect data from your users.
 
 ## Learn the CSS Box Model by Building a Rothko Painting
 
-_Not started_
+- [ ] _Not started_
 
 Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.
 
@@ -60,14 +60,14 @@ In this course, you'll use CSS and the Box Model to create your own Rothko-style
 
 ## Learn CSS Flexbox by Building a Photo Gallery
 
-_Not started_
+- [ ] _Not started_
 
 Flexbox helps you design your webpage so that it looks good on any screen size.
 
 In this course, you'll use Flexbox to build a responsive photo gallery webpage.
 ## Learn Typography by Building a Nutrition Label
 
-_Not started_
+- [ ] _Not started_
 
 Typography is the art of styling your text to be easily readable and suit its purpose.
 
@@ -75,7 +75,7 @@ In this course, you'll use typography to build a nutrition label webpage. You'll
 
 ## Learn Accessibility by Building a Quiz
 
-_Not started_
+- [ ] _Not started_
 
 Accessibility is making your webpage easy for all people to use – even people with disabilities.
 
@@ -83,7 +83,7 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 ### Tribute Page
 
-_Not started_
+- [ ] _Not started_
 
 This is one of the required projects to earn your certification.
 
@@ -91,7 +91,7 @@ For this project, you will build a tribute page for a subject of your choosing, 
 
 ## Learn More About CSS Pseudo Selectors By Building A Balance Sheet
 
-_Not started_
+- [ ] _Not started_
 
 You can use CSS pseudo selectors to change specific HTML elements.
 
@@ -99,13 +99,13 @@ In this course, you'll build a balance sheet using pseudo selectors. You'll lear
 
 ## Learn Intermediate CSS by Building a Picasso Painting
 
-_Not started_
+- [ ] _Not started_
 
 In this course, you'll learn how to use some intermediate CSS techniques by coding your own Picasso painting webpage. You'll learn about SVG icons, CSS positioning, and review other CSS skills you've learned.
 
 ## Learn Responsive Web Design by Building a Piano
 
-_Not started_
+- [ ] _Not started_
 
 Responsive Design tells your webpage how it should look on different-sized screens.
 
@@ -113,7 +113,7 @@ In this course, you'll use CSS and Responsive Design to code a piano. You'll als
 
 ### Technical Documentation Page
 
-_Not started_
+- [ ] _Not started_
 
 This is one of the required projects to earn your certification.
 
@@ -121,7 +121,7 @@ For this project, you will build a technical documentation page to serve as inst
 
 ## Learn CSS Variables by Building a City Skyline
 
-_Not started_
+- [ ] _Not started_
 
 CSS variables help you organize your styles and reuse them.
 
@@ -129,7 +129,7 @@ In this course, you'll build a city skyline. You'll learn how to configure CSS v
 
 ## Learn CSS Grid by Building a Magazine
 
-_Not started_
+- [ ] _Not started_
 
 CSS Grid gives you control over the rows and columns of your webpage design.
 
@@ -137,7 +137,7 @@ In this course, you'll build a magazine article. You'll learn how to use CSS Gri
 
 ### Product Landing Page
 
-_Not started_
+- [ ] _Not started_
 
 This is one of the required projects to earn your certification.
 
@@ -145,7 +145,7 @@ For this project, you will build a product landing page to market a product of y
 
 ## Learn CSS Animation by Building a Ferris Wheel
 
-_Not started_
+- [ ] _Not started_
 
 You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.
 
@@ -153,7 +153,7 @@ In this course, you'll build a Ferris wheel. You'll learn how to use CSS to anim
 
 ## Learn CSS Transforms by Building a Penguin
 
-_Not started_
+- [ ] _Not started_
 
 You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.
 
@@ -161,7 +161,7 @@ In this course, you'll build a penguin. You'll use CSS transforms to position an
 
 ### Personal Portfolio Webpage
 
-_Not started_
+- [ ] _Not started_
 
 This is one of the required projects to earn your certification.
 
