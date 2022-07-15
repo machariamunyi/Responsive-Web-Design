@@ -81,7 +81,7 @@ Accessibility is making your webpage easy for all people to use – even people 
 
 In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
-## Tribute Page
+### Tribute Page
 
 _Not started_
 
@@ -111,7 +111,7 @@ Responsive Design tells your webpage how it should look on different-sized scree
 
 In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
 
-## Technical Documentation Page
+### Technical Documentation Page
 
 _Not started_
 
@@ -135,7 +135,7 @@ CSS Grid gives you control over the rows and columns of your webpage design.
 
 In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
 
-## Product Landing Page
+### Product Landing Page
 
 _Not started_
 
@@ -159,7 +159,7 @@ You can transform HTML elements to create appealing designs that draw your reade
 
 In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work.
 
-## Personal Portfolio Webpage
+### Personal Portfolio Webpage
 
 _Not started_
 
